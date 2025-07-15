@@ -151,3 +151,4 @@
 #
 #             self.output.append(1 if self.state == 0 and bit == 1 else 0)
 #         return self.output
+
